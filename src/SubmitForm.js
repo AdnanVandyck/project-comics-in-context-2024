@@ -17,6 +17,8 @@ function SubmitForm() {
             Your Email:
                 <input type="text"/>
             </label>
+
+            <RequestFormButton />
         </form>
     </div>
   )
